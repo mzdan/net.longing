@@ -3,7 +3,7 @@ net.longing
 
 Net.longing explores how the internet and virtual relationships alter a memory over time.
 
-As a set of text, it explores the influence of social technologies on how we recall and tell our stories. How do digital mediums, versioning, and imagined networks play a role in remembering and creating narratives?
+As a set of multi-version texts, it explores the influence of social technologies on how we recall and tell our stories. How do digital mediums, versioning, and imagined networks play a role in remembering and creating narratives?
 
 The format mirrors the revision control technology that software developers use to track changes in code over the life of a project.
 
